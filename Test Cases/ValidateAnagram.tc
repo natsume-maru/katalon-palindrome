@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ValidatePalindrome - Copy</name>
+   <name>ValidateAnagram</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>df6f9677-6cbb-4f0f-bc40-e6715c174ba5</testCaseGuid>

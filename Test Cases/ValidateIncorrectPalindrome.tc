@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ValidatePalindrome</name>
+   <name>ValidateIncorrectPalindrome</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>df3b30f3-5259-444c-a6d6-b07c444645db</testCaseGuid>
+   <testCaseGuid>50b0e578-383c-4e70-b334-e4a34934e0af</testCaseGuid>
    <variable>
       <defaultValue>''</defaultValue>
       <description>palindrome words from excel sheet</description>
-      <id>02869c4d-d89f-4350-8584-6cf7ddf374cc</id>
+      <id>c9e26293-7b11-463d-858a-79c89a4df3da</id>
       <masked>false</masked>
       <name>palindrome</name>
    </variable>

@@ -18,9 +18,11 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://xndev.com/palindrome')
 
 WebUI.setText(findTestObject('Object Repository/Page_The Palindrome Exercise - Excelon Development/input_Is This an Anagram_originalWord (1)'), 
-    findTestData('palindrome_text2').getValue(1, 1))
+    findTestData('palindrome_correct').getValue(1, 1))
 
 WebUI.click(findTestObject('Object Repository/Page_The Palindrome Exercise - Excelon Development/input_Is This an Anagram_button (1)'))
+
+WebUI.verifyTextPresent("Yes!", false)
 
 WebUI.closeBrowser()
 
