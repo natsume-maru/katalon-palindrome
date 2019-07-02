@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidatePalindrome - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df6f9677-6cbb-4f0f-bc40-e6715c174ba5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>palindrome words from excel sheet</description>
+      <id>99b32de2-6037-426e-a863-c52b0406a361</id>
+      <masked>false</masked>
+      <name>palindrome</name>
+   </variable>
+</TestCaseEntity>
